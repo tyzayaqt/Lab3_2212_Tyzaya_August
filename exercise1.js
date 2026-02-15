@@ -1,4 +1,4 @@
-const buttons = document.querySelectorAll('button');
+const buttons = document.querySelectorAll('.color-btn');
  
 function changeColor() {
     this.style.backgroundColor = 'yellow';
